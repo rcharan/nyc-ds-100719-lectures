@@ -6,7 +6,7 @@ Created on Thu Sep  5 15:35:22 2019
 @author: swilson5
 """
 import pytest
-from math_functions import Calculator
+from descriptive import Calculator
 
 data1 = [2, 20, 45, 15, 10, 55, 80]
 

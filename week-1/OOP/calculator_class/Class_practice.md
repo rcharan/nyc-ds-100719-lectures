@@ -7,7 +7,7 @@ Created on Thu Sep  5 15:31:34 2019
 """
 
 Your Turn:
-Now you are going to work with a partner to create a class. 
+Now you are going to work with a partner to create a class.
 Your class will construct a descriptive statistics calculator using our functions from earlier.
 
 Your class should have the following attributes:
@@ -24,5 +24,5 @@ Your class should have the following methods:
 .remove_data() accept a list of numbers and remove any of the numbers in that list from your object data
 Bonus:
 
-- calc_correlation(second_variable) this method should accept a list of data for the second variable, 
+- calc_correlation(second_variable) this method should accept a list of data for the second variable,
 and then calculate the correlation coefficient for the two variables.
